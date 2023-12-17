@@ -1,0 +1,9 @@
+# config yaml
+main:
+  functionToRun: PostgreSQL
+# PostgreSQL
+# SQLite
+# Pandas   (Gota) for golang
+# DuckDB
+# SQLAlchemy  (Gorm) fo golang
+# All (PostgreSQL,SQLite,Pandas,DuckDB,SQLAlchemy
